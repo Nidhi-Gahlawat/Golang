@@ -2,13 +2,6 @@
 # Go Repository
 This repository demonstrates the fundamentals of Go programming and showcases testing using the `myutil` package.
 
-## Table of Contents
-- [Introduction](##introduction)
-- [Installation](##installation)
-- [Usage](#usage)
-- [Testing](#testing)
-- [Contributing](#contributing)
-
 ## Introduction
 
 The purpose of this repository is to provide a simple example of Go programming concepts and highlight the testing capabilities using the `myutil` package. 
