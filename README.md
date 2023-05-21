@@ -1,4 +1,3 @@
-```markdown
 # Go Repository
 This repository demonstrates the fundamentals of Go programming and showcases testing using the `myutil` package.
 
