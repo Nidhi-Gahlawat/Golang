@@ -3,8 +3,8 @@
 This repository demonstrates the fundamentals of Go programming and showcases testing using the `myutil` package.
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Installation](#installation)
+- [Introduction](##introduction)
+- [Installation](##installation)
 - [Usage](#usage)
 - [Testing](#testing)
 - [Contributing](#contributing)
