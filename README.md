@@ -69,9 +69,3 @@ Feel free to explore the test file and modify the tests to suit your needs. Writ
 ## Contributing
 
 Contributions are welcome! If you find any issues or want to enhance this repository, feel free to open a pull request. Please follow the established guidelines for contributing.
-
-
-This repository is licensed under the [MIT License](LICENSE).
-```
-
-Please note that the above README is a template, and you should customize it according to your specific project and requirements. Provide appropriate links, installation instructions, and examples based on your project's structure and purpose.
